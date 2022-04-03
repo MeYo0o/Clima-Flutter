@@ -1,7 +1,5 @@
 # Clima ☁
 
-# Bitcoin Ticker 🤑
-
 ## Screenshots
 
 <table>
